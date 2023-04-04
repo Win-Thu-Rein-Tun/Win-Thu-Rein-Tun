@@ -9,15 +9,18 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602321/coding-2_zleama.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=win-thu-rein-tun&label=Profile%20views&color=0e75b6&style=flat" alt="win-thu-rein-tun" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=win-thu-rein-tun&label=Profile%20views&color=0e75b6&style=flat" alt="win-thu-rein-tun" /> </p> -->
 
 - 💬 Ask me about **MERN Stack Development**
+
+<img  align="right"  alt="Coding"  width="400"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="win-thu-rein-tun" /></p>
 
 <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/? -->
+ <img src="https://res.cloudinary.com/dukplngbj/image/upload/v1680634588/banner-2_qrvxqe.gif">
 
 <br>
 

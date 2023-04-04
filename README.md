@@ -36,7 +36,7 @@ const Love = [ "Plan", "Design", "Development", "Deployment" ]
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1669674284/tags/next.png" alt="next.js" width="40" height="40"/> </a> 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2AGqzXyZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/es5rkxe78nxvvuer9mrm.png" alt="next.js" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 

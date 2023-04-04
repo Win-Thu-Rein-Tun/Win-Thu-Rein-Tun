@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact" alt="win-thu-rein-tun" /></p>
+<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact" alt="win-thu-rein-tun" /></p> -->
 
 <br>
 

@@ -1,3 +1,5 @@
+[![Navbar](https://res.cloudinary.com/dukplngbj/image/upload/v1680602740/code_wexbul.gif)]
+
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
 <h2 align="center">MERN Stack Developer</h2>
 

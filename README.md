@@ -2,7 +2,7 @@
 <h2 align="center">MERN Developer</h2>
 
 ```bash
-const Love = [ "Plan", "Design", "Development", "Deployment" ]
+const Life = [ "Plan", "Design", "Development", "Deployment" ]
 ```
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680585672/coding-1_hieyp9.gif">

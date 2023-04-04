@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
-<h3 align="center">Just a Developer</h3>
+<h2 align="center">Just a Developer</h2>
 <h3 align="center">Love - Plan, Design, Development, Deployment </h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680585672/coding-1_hieyp9.gif">
@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact" alt="win-thu-rein-tun" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact" alt="win-thu-rein-tun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en" alt="win-thu-rein-tun" /></p>
 

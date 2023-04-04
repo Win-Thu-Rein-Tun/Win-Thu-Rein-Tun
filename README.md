@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
 <h3 align="center">Just a Developer</h3>
+<h3 align="center">Love - Plan, Design, Development, Deployment </h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680585672/coding-1_hieyp9.gif">
 
@@ -9,6 +10,12 @@
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>

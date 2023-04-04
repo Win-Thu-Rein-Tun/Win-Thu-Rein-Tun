@@ -7,24 +7,22 @@
 const Life = [ "Plan", "Design", "Development", "Deployment" ]
 ```
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602321/coding-2_zleama.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602321/coding-2_zleama.gif"> -->
+<img  align="right" width="520" alt="Coding"  width="400"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=win-thu-rein-tun&label=Profile%20views&color=0e75b6&style=flat" alt="win-thu-rein-tun" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=win-thu-rein-tun&label=Profile%20views&color=0e75b6&style=flat" alt="win-thu-rein-tun" /> </p>
+
 
 - 💬 Ask me about **MERN Stack Development**
-
-<img  align="right"  alt="Coding"  width="400"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="win-thu-rein-tun" /></p>
 
 <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/? -->
- <img src="https://res.cloudinary.com/dukplngbj/image/upload/v1680634588/banner-2_qrvxqe.gif">
-
-<br>
 
 <h3 align="center">Languages and Tools</h3>
+<br>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dukplngbj/image/upload/v1680601019/html_d9otcw.png" alt="html5" width="40" height="40"/> </a>
@@ -63,9 +61,15 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 
 <br>
 
-<p align="center" ><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en&theme=tokyonight" alt="win-thu-rein-tun" /></p>
+<div><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en&theme=tokyonight" alt="win-thu-rein-tun" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=win-thu-rein-tun&theme=dark" alt="win-thu-rein-tun" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=win-thu-rein-tun&theme=dark" alt="win-thu-rein-tun" />
+ 
+</div>
+
+<h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+
+<img src="https://res.cloudinary.com/dukplngbj/image/upload/v1680634588/banner-2_qrvxqe.gif">
 
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>

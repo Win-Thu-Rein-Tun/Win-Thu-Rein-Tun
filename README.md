@@ -38,7 +38,7 @@ const Love = [ "Plan", "Design", "Development", "Deployment" ]
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1669674284/tags/next.png" alt="next.js" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://e7.pngegg.com/pngimages/1006/374/png-clipart-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-thumbnail.png" alt="nodejs" width="40" height="40"/> </a>
+<img src="https://res.cloudinary.com/dukplngbj/image/upload/v1680598556/Type_Default_showText_False_showSymbol_True_jjtych.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="express" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 

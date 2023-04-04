@@ -13,8 +13,6 @@ const Love = [ "Plan", "Design", "Development", "Deployment" ]
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win-thu-rein-tun&layout=compact)](https://github.com/win-thu-rein-tun/github-readme-stats)
-
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact" alt="win-thu-rein-tun" /></p>
 
 <br>

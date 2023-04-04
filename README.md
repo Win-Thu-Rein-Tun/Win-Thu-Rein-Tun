@@ -60,7 +60,7 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en&theme=tokyonight" alt="win-thu-rein-tun" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=win-thu-rein-tun&theme=tokyonight" alt="win-thu-rein-tun" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=win-thu-rein-tun&theme=dark" alt="win-thu-rein-tun" /></p>
 
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>

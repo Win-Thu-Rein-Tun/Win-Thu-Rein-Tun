@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
-<h2 align="center">MERN Developer</h2>
+<h2 align="center">MERN Stack Developer</h2>
 
 ```bash
 const Life = [ "Plan", "Design", "Development", "Deployment" ]

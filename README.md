@@ -8,10 +8,11 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 ```
 
 <!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602321/coding-2_zleama.gif"> -->
-<img  align="right" alt="Coding"  width="400"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=win-thu-rein-tun&label=Profile%20views&color=0e75b6&style=flat" alt="win-thu-rein-tun" /> </p>
 
+<img  align="right" alt="Coding"  width="400"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
 
 - 💬 Ask me about **MERN Stack Development**
 

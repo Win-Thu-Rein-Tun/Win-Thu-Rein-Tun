@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
 <h2 align="center">Just a Developer</h2>
-```const Love = [ "Plan", "Design", "Development", "Deployment" ]```
+```bash
+const Love = [ "Plan", "Design", "Development", "Deployment" ]
+```
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680585672/coding-1_hieyp9.gif">
 

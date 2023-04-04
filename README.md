@@ -15,7 +15,9 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="win-thu-rein-tun" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="win-thu-rein-tun" /></p>
+
+<!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/? -->
 
 <br>
 
@@ -58,7 +60,7 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 
 <br>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en&theme=tokyonight" alt="win-thu-rein-tun" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en&theme=tokyonight" alt="win-thu-rein-tun" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=win-thu-rein-tun&theme=dark" alt="win-thu-rein-tun" /></p>
 

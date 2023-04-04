@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
 <h3 align="center">Average Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680585672/coding-1_hieyp9.gif">
+<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680585672/coding-1_hieyp9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=win-thu-rein-tun&label=Profile%20views&color=0e75b6&style=flat" alt="win-thu-rein-tun" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 

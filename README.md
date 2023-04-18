@@ -1,7 +1,7 @@
 <p><img width=100% height="200" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602740/code_wexbul.gif"><p>
 
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
-<h2 align="center">MERN Stack Developer</h2>
+<h2 align="center">MERN Stack and React Native Developer</h2>
 
 ```bash
 const Life = [ "Plan", "Design", "Development", "Deployment" ]
@@ -70,3 +70,4 @@ const Life = [ "Plan", "Design", "Development", "Deployment" ]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
+

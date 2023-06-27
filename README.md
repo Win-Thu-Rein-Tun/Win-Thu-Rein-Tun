@@ -62,8 +62,6 @@ const Life = [ "Plan", "Design", "Development", "Test", "Deployment" ]
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=win-thu-rein-tun&show_icons=true&locale=en&theme=tokyonight" alt="win-thu-rein-tun" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=win-thu-rein-tun&theme=dark" alt="win-thu-rein-tun" /></p>
 
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">

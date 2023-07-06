@@ -1,10 +1,10 @@
 <p><img width=100% height="200" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602740/code_wexbul.gif"><p>
 
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
-<h2 align="center">MERN Stack Developer</h2>
+<h2 align="center">Web Developer</h2>
 
 ```bash
-const Life = [ "Plan", "Design", "Development", "Test", "Deployment" ]
+const Life = [ "Code", "Eat", "Sleep" ]
 ```
 
 <!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602321/coding-2_zleama.gif"> -->
@@ -14,7 +14,7 @@ const Life = [ "Plan", "Design", "Development", "Test", "Deployment" ]
 
 <img  align="right" alt="Coding"  width="420"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sun.d.shine.9@gmail.com**
 

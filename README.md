@@ -1,7 +1,7 @@
 <p><img width=100% height="200" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602740/code_wexbul.gif"><p>
 
 <h1 align="center">Hi 👋, I'm Shine D Sun</h1>
-<h2 align="center">Developer</h2>
+<h2 align="center">Just a Developer</h2>
 
 ```bash
 const Life = [ "Code", "Eat", "Sleep" ]

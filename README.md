@@ -4,7 +4,7 @@
 <h2 align="center">Enthusiastic Developer</h2>
 
 ```bash
-const Life = [ "Code", "Eat", "Sleep" ]
+const Life = [ "Plan", "Design", "Develop", "Test", "Error" ]
 ```
 
 <!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukplngbj/image/upload/v1680602321/coding-2_zleama.gif"> -->

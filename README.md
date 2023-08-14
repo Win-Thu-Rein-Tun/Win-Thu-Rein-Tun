@@ -14,9 +14,9 @@ const Life = [ "Plan", "Design", "Develop", "Test", "Error" ]
 
 <img  align="right" alt="Coding"  width="420"  src="https://res.cloudinary.com/dukplngbj/image/upload/v1680633949/coding-6_pcuwas.gif">
 
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **sun.d.shine.9@gmail.com**
+- 📫 How to reach me **shine.d.sun.personal@gmail.com**
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=win-thu-rein-tun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="win-thu-rein-tun" /></p>
 
